@@ -1,0 +1,28 @@
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Project folders #
+######################
+node_modules/
+android/
+ios/
+.idea/
+www/index.js
+
+# local scripts #
+#################
+*.local.sh
+.AppleDouble/
+/bootstrap/
+._.DS_Store
+.DS_Store
+/docker-compose*.yml
+*package-lock.json
+*.err
+*.log
